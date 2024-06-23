@@ -16,8 +16,3 @@ Here's a list of the packages we will use to accomplish this:
 - Docker
 - and more
 
-## Want to just run the app?
-Click below to deploy to DigitalOcean. Be sure to grab your $100 credit [here](https://do.co/cfe-github).
-
-
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/codingforentrepreneurs/FastAPI-Microservice-for-Django/tree/main)
